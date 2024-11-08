@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #376baa;
+    --card-front-color: #133c6e;
     --card-back-color: #71b8a9;
 }
 
 body {
-    background: url('img/Design sem nome (2).png');
+    background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 
