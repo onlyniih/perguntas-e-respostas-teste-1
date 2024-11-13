@@ -21,3 +21,15 @@ criaCartao(
     'Uma pergunta que você nunca pode responder com sim?',
     'Você está dormindo?'
 )
+
+criaCartao(
+    'O que é o que é',
+    'Não se come, mas é bom para se comer.',
+    'O talher'
+)
+
+criaCartao(
+    'O que é o que é',
+    'Uma impressora disse para a outra.',
+    'Essa folha é tua ou é impressão minha?'
+)
